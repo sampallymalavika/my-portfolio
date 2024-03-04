@@ -6,11 +6,13 @@
   padding: 10px;
   color:white;
   text-decoration: none;
+  
 }
 
 .header-ul{
   padding-left: 67%;
   background-color: black;
+  margin: 0%;
 }
 .picture{
   width:23%;
@@ -188,4 +190,13 @@
   position: fixed;
   width:3%;
   margin-left: 94%;
+}
+@media (min-width: 481px) and (max-width:768px){
+  .header-ul{
+    padding-left: 20%;
+    background-color: black;
+    margin: 0%;
+  }
+
+  
 }
