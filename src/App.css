@@ -1,0 +1,191 @@
+.App{
+  background-color: #CCD3CA;
+}
+.header-ul a {
+  display: inline-block;
+  padding: 10px;
+  color:white;
+  text-decoration: none;
+}
+
+.header-ul{
+  padding-left: 67%;
+  background-color: black;
+}
+.picture{
+  width:23%;
+  margin: 8%;
+  border-radius: 50%;
+}
+.about{
+  margin-top: -35%;
+  margin-left: 36% ;
+}
+.ptag{
+  margin-left: 17%;
+  font-size: 20px;
+}
+.h2tag{
+  margin-left: 5%;
+}
+.resume {
+  width: 19%;
+  padding: 8px;
+  background-color:black;
+  color:white;
+  border-radius:19% ;
+}
+.contact-info{
+  margin-left: 26px;
+  padding: 7px;
+  width:20%;
+  background-color:black;
+  color : white;
+  border-radius: 45%;
+}
+.get-to {
+  text-align: center;
+  padding-top: 4%;
+  padding-bottom: 4%;
+}
+.github{
+  width: 3%;
+  margin-left: 2%;
+  margin-bottom: -1%;
+}
+.linked{
+  width: 5%;
+    margin-left: 2%;
+    margin-bottom: -2%;
+}
+.card {
+  border: 1px solid;
+  border-radius: 12px;
+  box-shadow: 5px 5px 5px;
+  padding: 25px;
+  margin: 10px;
+  text-align: center;
+  max-width: 270px;
+  display: inline-block;
+  margin-left: 24%;
+}
+.card-image{
+  width:10%
+}
+.card1 {
+  border: 1px solid;
+  border-radius: 12px;
+  box-shadow: 5px 5px 5px;
+  padding: 25px;
+  margin: 10px;
+  text-align: center;
+  max-width: 270px;
+  display: inline-block;
+  margin-left: 5%;
+}
+.card2{
+  border: 1px solid;
+  border-radius: 12px;
+  box-shadow: 5px 5px 5px;
+  padding: 25px;
+  margin: 10px;
+  text-align: center;
+  max-width: 270px;
+  display: inline-block;
+  margin-left: 5%;
+
+}
+.card3{
+  border: 1px solid;
+  border-radius: 12px;
+  box-shadow: 5px 5px 5px;
+  padding: 25px;
+  margin: 10px;
+  text-align: center;
+  max-width: 270px;
+  display: inline-block;
+  margin-left: 5%;
+
+}
+.card4{
+  border: 1px solid;
+  border-radius: 12px;
+  box-shadow: 5px 5px 5px;
+  padding: 25px;
+  margin: 10px;
+  text-align: center;
+  max-width: 270px;
+  display: inline-block;
+  margin-left: 5%;
+
+}
+.card5{
+  border: 1px solid;
+  border-radius: 12px;
+  padding: 7px;
+  margin: 10px;
+  text-align: center;
+  max-width: 40%;
+  margin-left: 30%;
+
+}
+
+.card-image1{
+  width:11%
+}
+.experience{
+  text-align: justify;
+  margin-left: 82px;
+}
+.experience-ul{
+  font-weight: bold;
+  margin-left:-4% ;
+}
+.explore{
+  text-align: center;
+}
+.tick{
+  width:13%;
+  margin-right: 4%;
+}
+.skill{
+  display: flex;
+  justify-content: flex-start;
+}
+.tick-ptag{
+  display: flex;
+}
+.cont{
+  text-align: center;
+}
+.mailto{
+  color:black;
+  font-weight: bold;
+}
+.mailimg{
+  width:3%;
+  margin-right: 2%;
+  margin-bottom: -1%;
+}
+.mailimg1{
+  width:3%;
+  margin-bottom: -1%;
+  margin-left: 2%;
+}
+.mailto1{
+  color: black;
+  margin-left: 1%;
+  font-weight: bold;
+}
+.footer{
+  padding: 1%;
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin-top: 4%;
+}
+.arrow{
+  position: fixed;
+  width:3%;
+  margin-left: 94%;
+}
