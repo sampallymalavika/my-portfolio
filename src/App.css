@@ -191,11 +191,46 @@
   width:3%;
   margin-left: 94%;
 }
-@media (min-width: 481px) and (max-width:768px){
+@media (min-width: 320px) and (max-width:768px){
   .header-ul{
-    padding-left: 20%;
+    padding-left: 9%;
     background-color: black;
     margin: 0%;
+  }
+  .resume{
+  width: 39%;
+  background-color:black;
+  color:white;
+  border-radius:19% ;
+  }
+  .github{
+    width: 7%;
+    margin-left: 2%;
+  }
+  .linked{
+    width: 11%;
+    margin-left: 2%;
+    margin-bottom: -3%;
+  }
+  .card {
+    border: 1px solid;
+    border-radius: 12px;
+    box-shadow: 5px 5px 5px;
+    padding: 25px;
+    margin: 10px;
+    text-align: center;
+    max-width: 266px;
+    display: inline-block;
+    margin-left: 7%;
+  }.experience{
+    margin-left: 0%;
+  }
+  .card5{
+    border: 1px solid;
+    border-radius: 12px;
+    margin: 10px;
+    text-align: center;
+    max-width: 100%;
   }
 
   
