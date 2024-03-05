@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.4f2a8aeb.css",
+    "main.css": "/my-portfolio/static/css/main.cc959fa7.css",
     "main.js": "/my-portfolio/static/js/main.eaebd12e.js",
     "static/media/updated.jpg": "/my-portfolio/static/media/updated.851ad4123b58f224fc36.jpg",
     "static/media/Education-Logo.png": "/my-portfolio/static/media/Education-Logo.c968b28d9bc8f8428660.png",
@@ -10,11 +10,11 @@
     "static/media/linkedin.jpg": "/my-portfolio/static/media/linkedin.fbc5794c3267f48b9800.jpg",
     "static/media/outlined_rounded_button_tick-512.webp": "/my-portfolio/static/media/outlined_rounded_button_tick-512.163ec695ae97240ea9a1.webp",
     "index.html": "/my-portfolio/index.html",
-    "main.4f2a8aeb.css.map": "/my-portfolio/static/css/main.4f2a8aeb.css.map",
+    "main.cc959fa7.css.map": "/my-portfolio/static/css/main.cc959fa7.css.map",
     "main.eaebd12e.js.map": "/my-portfolio/static/js/main.eaebd12e.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f2a8aeb.css",
+    "static/css/main.cc959fa7.css",
     "static/js/main.eaebd12e.js"
   ]
 }
